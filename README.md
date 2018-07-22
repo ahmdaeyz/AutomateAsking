@@ -1,13 +1,12 @@
 # Automate Asking
-<br>What is this for?</br>
-<br>This console app makes u able to ask Questions in the popular social network site Ask.fm Either anonyoumsly or with an account.</br>
+<br><h3>What is this for?</h3></br>
+This console app makes u able to ask Questions in the popular social network site Ask.fm Either anonyoumsly or with an account.
 <br>You can ask indiviuals or a group of people.</br>
-<br>Features that ain't in the main method yet :</br>
+<br><h3>Features that ain't in the main method yet :</h3></br>
 <br>===========22/7/2018============</br>
 - The ability to sign up.
 - The ability to remove a specific account.
 - The ability to share the asking between the initialized there by default bots.
-<br>Might be implemented Features :</br>
+<br><h3>Might be implemented Features :</h3></br>
 - The ability to like an answer.
 - The ability to follow a user.
-<br>-......</br>
